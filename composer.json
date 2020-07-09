@@ -1,0 +1,19 @@
+{
+    "name": "mendela92/lara-subscription",
+    "description": "A simple laravel subscription plugin.",
+    "type": "Project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Nelson DIck",
+            "email": "ndick4@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Mendela92\\LaraSubscription\\": "src/"
+        }
+    },
+    "require": {}
+}
